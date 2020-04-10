@@ -1,0 +1,42 @@
+{
+  "version": 3,
+  "targets": {
+    "Xamarin.iOS,Version=v1.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "Xamarin.iOS,Version=v1.0": []
+  },
+  "packageFolders": {
+    "/Users/ashton/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ashton/Projects/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin.csproj",
+      "projectName": "BDKCollectionIndexView",
+      "projectPath": "/Users/ashton/Projects/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin.csproj",
+      "packagesPath": "/Users/ashton/.nuget/packages/",
+      "outputPath": "/Users/ashton/Projects/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/obj/",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "/Users/ashton/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "xamarinios10"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "xamarinios10": {}
+    }
+  }
+}

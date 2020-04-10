@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BDKCollectionIndexView.Xamarin/libBDKCollectionIndexViewBindingUniversal.linkwith.cs">
+    <Files>
+      <File FileName="BDKCollectionIndexView.Xamarin/ApiDefinition.cs" Line="23" Column="1" />
+      <File FileName="BDKCollectionIndexView.Xamarin/Structs.cs" />
+      <File FileName="BDKCollectionIndexView.Xamarin/libBDKCollectionIndexViewBindingUniversal.linkwith.cs" Line="10" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BDKCollectionIndexView.Xamarin" expanded="True">
+            <Node name="BDKCollectionIndexView.Xamarin" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="libBDKCollectionIndexViewBindingUniversal.a" expanded="True">
+                <Node name="libBDKCollectionIndexViewBindingUniversal.linkwith.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

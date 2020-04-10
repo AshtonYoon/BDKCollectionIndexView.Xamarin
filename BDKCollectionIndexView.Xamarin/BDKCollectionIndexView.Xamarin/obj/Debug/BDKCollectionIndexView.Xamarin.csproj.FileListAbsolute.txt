@@ -1,0 +1,6 @@
+/Users/ashton/Projects/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/obj/Debug/BDKCollectionIndexView.Xamarin.csprojAssemblyReference.cache
+/Users/ashton/Projects/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/obj/Debug/BDKCollectionIndexView.Xamarin.csproj.CoreCompileInputs.cache
+/Users/ashton/Projects/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/bin/Debug/BDKCollectionIndexView.dll
+/Users/ashton/Projects/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/bin/Debug/BDKCollectionIndexView.pdb
+/Users/ashton/Projects/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/obj/Debug/BDKCollectionIndexView.dll
+/Users/ashton/Projects/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin/obj/Debug/BDKCollectionIndexView.pdb
