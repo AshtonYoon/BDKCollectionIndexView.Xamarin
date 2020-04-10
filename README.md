@@ -1,0 +1,1 @@
+BDKCollectionIndexView.Xamarin
