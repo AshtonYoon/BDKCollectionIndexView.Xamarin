@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>BDKCollectionIndexView.Xamarin</id>
+    <version>1.0.2</version>
+    <authors>ashton</authors>
+    <owners>ashton</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/AshtonYoon/BDKCollectionIndexView.Xamarin</projectUrl>
+    <description>Gives a UICollectionView the sectionIndexTitles scrub bar that a UITableView gets for almost free.
+    Based on https://github.com/kreeger/BDKCollectionIndexView</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>CollectionView Xamarin.iOS</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1"></group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src=".\BDKCollectionIndexView.Xamarin\bin\Release\BDKCollectionIndexView.dll" target="lib\netstandard2.1"></file>
+  </files>  
+</package>

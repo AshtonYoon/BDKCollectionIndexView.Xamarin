@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="BDKCollectionIndexView.Xamarin/libBDKCollectionIndexViewBindingUniversal.linkwith.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BDKCollectionIndexView.Xamarin/ApiDefinition.cs">
     <Files>
-      <File FileName="BDKCollectionIndexView.Xamarin/ApiDefinition.cs" Line="23" Column="1" />
-      <File FileName="BDKCollectionIndexView.Xamarin/Structs.cs" />
-      <File FileName="BDKCollectionIndexView.Xamarin/libBDKCollectionIndexViewBindingUniversal.linkwith.cs" Line="10" Column="17" />
+      <File FileName="BDKCollectionIndexView.Xamarin/ApiDefinition.cs" Line="36" Column="1" />
+      <File FileName="BDKCollectionIndexView.Xamarin/Structs.cs" Line="1" Column="1" />
+      <File FileName="BDKCollectionIndexView.Xamarin/libBDKCollectionIndexViewBindingUniversal.linkwith.cs" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,9 +11,8 @@
           <Node name="BDKCollectionIndexView.Xamarin" expanded="True">
             <Node name="BDKCollectionIndexView.Xamarin" expanded="True">
               <Node name="Properties" expanded="True" />
-              <Node name="libBDKCollectionIndexViewBindingUniversal.a" expanded="True">
-                <Node name="libBDKCollectionIndexViewBindingUniversal.linkwith.cs" selected="True" />
-              </Node>
+              <Node name="ApiDefinition.cs" selected="True" />
+              <Node name="libBDKCollectionIndexViewBindingUniversal.a" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -21,7 +20,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
