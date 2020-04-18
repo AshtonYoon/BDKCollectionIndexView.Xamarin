@@ -6,7 +6,7 @@ An index-title-scrubber-bar, for use with a UICollectionView or as a replacement
 
 To install it via [Nuget](https://www.nuget.org/packages/BDKCollectionIndexView.Xamarin/)
 
-(nuget store screen shot)
+![](https://github.com/AshtonYoon/BDKCollectionIndexView.Xamarin/blob/master/Screen%20Shots/Screen%20Shot%202020-04-19%20at%202.17.58%20AM.png)
 
 or command line
 
